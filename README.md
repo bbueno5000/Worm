@@ -11,5 +11,4 @@ In Unity 2019.4 or later, open the Package Manager, hit the "+" button, and sele
 In the dialog that appears, enter
  ```
 git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents#release_20
-git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents.extensions#release_20
 ```
